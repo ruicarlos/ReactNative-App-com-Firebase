@@ -1,4 +1,4 @@
-# :iphone: Aplicativo de Task feito em React Native e Firebase
+# :iphone: Aplicativo de tarefas feito em React Native e Firebase
 Aplicativo Mobile de Tarefas diarias desenvolvido em ReactNative com firebase
 
 :warning: Necessário a adição do arquivo de configuração do Firebase 
